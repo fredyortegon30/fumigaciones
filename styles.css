@@ -1,0 +1,182 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-indent: 0;
+}
+
+.s1 {
+    color: black;
+    font-family: "Book Antiqua", serif;
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 57pt;
+}
+
+h4 {
+    color: #25786E;
+    font-family: Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 16pt;
+}
+
+p {
+    color: #F42524;
+    font-family: "Lucida Sans", sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 17pt;
+    margin: 0pt;
+}
+
+.employer {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 33.5pt;
+}
+
+h3 {
+    color: #25786E;
+    font-family: Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 17pt;
+}
+
+a {
+    color: black;
+    font-family: "Lucida Sans", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 18pt;
+}
+
+.logo {
+    text-align: center;
+    margin-top: 93px;
+}
+
+.img-validate {
+    text-align: center;
+    padding-left: 600px;
+    margin-top: -60px;
+    z-index: 3;
+    /* Colocar el SVG detrás de otros elementos */
+}
+
+
+.qr-validation {
+    text-align: center;
+    padding-left: 600px;
+    margin-top: -125px;
+    z-index: 3;
+    /* Colocar el SVG detrás de otros elementos */
+}
+
+.qr-validation p {
+    color: black;
+    font-weight: 800;
+    text-align: center;
+    font-size: 12px;
+
+}
+
+
+#svg-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    /* Colocar el SVG detrás de otros elementos */
+}
+
+.title-1 {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 38.48pt;
+    margin-top: -46px;
+    margin-bottom: 5px;
+}
+
+.title-2 {
+    color: #F42524;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 22pt;
+    margin-top: 5px;
+    margin-bottom: 12px;
+}
+
+.client {
+    color: black;
+    font-family: 'Niconne';
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 57pt;
+    margin-top: -15px;
+    margin-bottom: 6px;
+}
+
+.type-clien {
+    color: #26786E;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 16pt;
+    margin-top: 1.32px;
+    margin-bottom: 20px;
+}
+
+.date-expire {
+    color: #F42524;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: Italic;
+    text-decoration: none;
+    font-size: 17pt;
+    margin-top: 5px;
+    margin-bottom: px;
+}
+
+.employer-name {
+    color: black;
+    font-family: 'Parisienne';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 46pt;
+    margin-top: 14px;
+    margin-bottom: 2px;
+}
+
+.employer-signature {
+    color: #26786E;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 17pt;
+    margin-top: -20px;
+    margin-bottom: 8px;
+}
+
+.domain {
+    font-family: 'Barlow';
+    font-weight: bold;
+    text-align: center;
+}
